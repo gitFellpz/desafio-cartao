@@ -9,7 +9,12 @@ body{
 }
 
 
-
+.alert{
+    opacity: 0;
+}
+.thanks{
+    display: none;
+}
 
 
 
