@@ -1,0 +1,9 @@
+:root{
+    --branco: hsl(0, 0%, 100%);
+    --cinza1: hsl(270, 3%, 87%);
+    --cinza2: hsl(279, 6%, 55%);
+    --roxo: hsl(278, 68%, 11%);
+    --gradient1: rgb(100,72,254);
+    --gradient2: linear-gradient(180deg, rgba(100,72,254,1) 0%, rgba(96,5,148,1) 77%);
+    --laranja: hsl(0, 100%, 66%);
+}
